@@ -20,6 +20,8 @@ namespace MyGitApp
         private void button1_Click(object sender, EventArgs e)
         {
             // comment 1
+
+            // Comment after initial commit.
         }
     }
 }
