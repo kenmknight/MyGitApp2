@@ -22,6 +22,8 @@ namespace MyGitApp
             // comment 1
 
             // Comment after initial commit.
+
+            // After Barry got hooked in.
         }
     }
 }
